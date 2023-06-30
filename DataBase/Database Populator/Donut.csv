@@ -1,0 +1,21 @@
+id,nome,preco,calorias,tipo,descricao
+1,Reeses Classic Doughnut,1.79,340,iced-filled,A doughnut filled with REESE’S Peanut Butter Kreme™ dipped in HERSHEY’S chocolate icing topped with mini peanut butter chips and a drizzle of chocolate and REESE’S peanut butter sauce.
+2,Original Filled Original Kreme,1.59,280,iced-filled,Original Filled Original Kreme™ Doughnut: Our iconic Original Glazed® Doughnut filled with classic White Kreme™ and decorated with an icing drizzle.
+3,Original Filled Chocolate Kreme,1.59,280,iced-filled-chocolate,Original Filled Chocolate Kreme™ Doughnut: Our iconic Original Glazed® Doughnut filled with Chocolate Kreme™ and decorated with a chocolate icing drizzle.
+4,Original Glazed,1.29,190,iced-filled,When we turn the light on it means that our delicious Original Glazed® Doughnuts are available right at that very moment! Glazed® doughnuts.
+5,Chocolate Iced Glazed,1.49,240,iced-glazed-chocolate,Chocolate lovers take note! We take our Original Glazed® doughnut one simple yet delicious step further by hand-dipping it in smooth delectable chocolate icing.
+6,Chocolate Iced Glazed with Sprinkles,1.49,250,iced-filled,
+7,Oreo Cookies and Kreme,1.79,390,filled-chocolate-iced,Our OREO® Cookies and Kreme Doughnut is a fan favorite! Filled with OREO Cookies and Kreme filling dipped in dark chocolate icing and topped with OREO cookie pieces. You dont want to miss this.
+8,Chocolate Iced with Kreme Filling,1.69,350,chocolate-iced-filled,A favorite of many this yummy variety is filled with our light and smooth KREME™ filling. It is then dipped in our classic chocolate icing to create a delectably balanced treat.
+9,Cake Batter,1.69,350,filled-iced,
+10,Chocolate Iced Custard Filled,1.69,300,iced-filled-chocolate,Chocolate Iced Custard Filled
+11,Glazed Raspberry Filled,1.69,290,glazed-filled,
+12,Glazed Lemon Filled,1.69,290,glazed-filled,
+13,Strawberry Iced with Sprinkles,1.39,210,iced,
+14,Apple Fritter,1.59,300,glazed,
+15,Chocolate Glazed Doughnut,1.59,300,glazed-chocolate,
+16,Glazed with Kreme Filling,1.59,300,glazed-filled,
+17,Chocolate Iced Cake,1.59,300,iced-cake-chocolate,
+18,Chocolate Iced Raspberry Filled,1.59,300,iced-chocolate,
+19,Glazed Chocolate Cake,1.49,300,glazed-chocolate-cake,
+20,Glazed Blueberry Cake,1.49,300,glazed-cake,
